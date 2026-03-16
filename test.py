@@ -1,1 +1,2 @@
-print("hello world from Colab and Github!")
+print("hello world")
+print("hello world 2")
